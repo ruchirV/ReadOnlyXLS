@@ -8,3 +8,5 @@ Features:
 - you can sort by any column you wish, just click on the header of that column.
 - Adjust columns fonts, colours, width & heigh at very granular level.
 - Callback to know if any row was clicked. 
+
+![Alt text](/MyExcel/Sample_ReadOnlyXLS.png?raw=true "Sample")
